@@ -1,3 +1,4 @@
 {
-    "test": "OK"
+    "test": "OK",
+    "OK": "test"
 }
